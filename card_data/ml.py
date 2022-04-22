@@ -13,4 +13,10 @@ with open("api_key_thon.txt") as f1:
                     }
             )
     response = urllib.request.urlopen(request).read().decode("utf-8")
-    print(response)
+
+    data = json.loads(response)
+
+    for card in data["items"]:
+        print("Card:", card["name"], " MaxLevel:", card["maxLevel"])
+    
+    print ("Total cards:", len(data["items"]))
