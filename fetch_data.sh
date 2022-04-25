@@ -52,4 +52,5 @@ printf '\n'
 # count how many players were downloaded
 echo "$(ls battles | wc -l) players downloaded"
 
-
+jupyter nbconvert --to python process_data.ipynb
+python process_data.py
