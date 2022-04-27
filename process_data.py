@@ -179,8 +179,12 @@ for i in os.walk('battles'):
 players = []
 for filename in files:
     with open(f'battles/{filename}') as file:
-        players.append(json.load(file))
-len(players)
+        try:
+            t = json.load(file)
+            players.append(t)
+        except:
+            print("Error at " + filename)
+print(len(players))
 
 
 # In[18]:
@@ -211,14 +215,16 @@ len(players)
 
 
 def add_battle(battles, b):
-    assert(len(b['team']) == 1)
-    assert(len(b['opponent']) == 1)
+    if len(b['team']) != 1 or len(b['opponent']) != 1: 
+        return
     team = b['team'][0]
     op = b['opponent'][0]
     tmp = {}
     
     for p, info in enumerate([team, op]):
         player = p + 1
+        if 'startingTrophies' not in info:
+            return
         tmp[f'p{player}_tag'] = info['tag']
         tmp[f'p{player}_trophy'] = info['startingTrophies']
         for i, c in enumerate(info['cards']):
@@ -240,6 +246,7 @@ for player in players:
     for battle in player:
         if battle['type'] in types_filter:
             add_battle(battles, battle)
+print(len(battles))
             
 
 
