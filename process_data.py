@@ -186,7 +186,7 @@ len(players)
 # In[18]:
 
 
-print(players[0][10].keys())
+# print(players[0][10].keys())
 
 
 # In[ ]:
@@ -198,13 +198,13 @@ print(players[0][10].keys())
 # In[19]:
 
 
-print(players[0][10]['team'][0]['cards'][0].keys())
+# print(players[0][10]['team'][0]['cards'][0].keys())
 
 
 # In[20]:
 
 
-files[0]
+# files[0]
 
 
 # In[21]:

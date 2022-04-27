@@ -1,92 +1,92 @@
-key,name,sc_key,elixir,type,rarity,id,flying_height,range,damage_air,damage_ground
-knight,Knight,Knight,3,Troop,Common,26000000,0,1200,False,True
-archers,Archers,Archer,3,Troop,Common,26000001,0,5000,True,True
-goblins,Goblins,Goblins,2,Troop,Common,26000002,0,500,False,True
-giant,Giant,Giant,5,Troop,Rare,26000003,0,1200,False,True
-pekka,P.E.K.K.A,Pekka,7,Troop,Epic,26000004,0,1200,False,True
-minions,Minions,Minions,3,Troop,Common,26000005,1500,1600,True,True
-balloon,Balloon,Balloon,5,Troop,Epic,26000006,3000,100,False,True
-witch,Witch,Witch,5,Troop,Epic,26000007,0,5500,True,True
-barbarians,Barbarians,Barbarians,5,Troop,Common,26000008,0,700,False,True
-golem,Golem,Golem,8,Troop,Epic,26000009,0,750,True,True
-skeletons,Skeletons,Skeletons,1,Troop,Common,26000010,0,500,False,True
-valkyrie,Valkyrie,Valkyrie,4,Troop,Rare,26000011,0,1200,False,True
-skeleton-army,Skeleton Army,SkeletonArmy,3,Troop,Epic,26000012,0,500,False,True
-bomber,Bomber,Bomber,2,Troop,Common,26000013,0,4500,False,True
-musketeer,Musketeer,Musketeer,4,Troop,Rare,26000014,0,6000,True,True
+key,name,sc_key,elixir,type,rarity,id,range,flying_height,damage_air,damage_ground
+knight,Knight,Knight,3,Troop,Common,26000000,1200,0,False,True
+archers,Archers,Archer,3,Troop,Common,26000001,5000,0,True,True
+goblins,Goblins,Goblins,2,Troop,Common,26000002,500,0,False,True
+giant,Giant,Giant,5,Troop,Rare,26000003,1200,0,False,True
+pekka,P.E.K.K.A,Pekka,7,Troop,Epic,26000004,1200,0,False,True
+minions,Minions,Minions,3,Troop,Common,26000005,1600,1500,True,True
+balloon,Balloon,Balloon,5,Troop,Epic,26000006,100,3000,False,True
+witch,Witch,Witch,5,Troop,Epic,26000007,5500,0,True,True
+barbarians,Barbarians,Barbarians,5,Troop,Common,26000008,700,0,False,True
+golem,Golem,Golem,8,Troop,Epic,26000009,750,0,True,True
+skeletons,Skeletons,Skeletons,1,Troop,Common,26000010,500,0,False,True
+valkyrie,Valkyrie,Valkyrie,4,Troop,Rare,26000011,1200,0,False,True
+skeleton-army,Skeleton Army,SkeletonArmy,3,Troop,Epic,26000012,500,0,False,True
+bomber,Bomber,Bomber,2,Troop,Common,26000013,4500,0,False,True
+musketeer,Musketeer,Musketeer,4,Troop,Rare,26000014,6000,0,True,True
 baby-dragon,Baby Dragon,BabyDragon,4,Troop,Epic,26000015,3500,3500,True,True
-prince,Prince,Prince,5,Troop,Epic,26000016,0,1600,False,True
-wizard,Wizard,Wizard,5,Troop,Rare,26000017,0,5500,True,True
-mini-pekka,Mini P.E.K.K.A,MiniPekka,4,Troop,Rare,26000018,0,800,False,True
-spear-goblins,Spear Goblins,SpearGoblins,2,Troop,Common,26000019,0,5000,True,True
-giant-skeleton,Giant Skeleton,GiantSkeleton,6,Troop,Epic,26000020,0,800,False,True
-hog-rider,Hog Rider,HogRider,4,Troop,Rare,26000021,0,800,False,True
-minion-horde,Minion Horde,MinionHorde,5,Troop,Common,26000022,1500,1600,True,True
-ice-wizard,Ice Wizard,IceWizard,3,Troop,Legendary,26000023,0,5500,True,True
-royal-giant,Royal Giant,RoyalGiant,6,Troop,Common,26000024,0,5000,False,True
-guards,Guards,SkeletonWarriors,3,Troop,Epic,26000025,0,1600,False,True
-princess,Princess,Princess,3,Troop,Legendary,26000026,0,9000,True,True
-dark-prince,Dark Prince,DarkPrince,4,Troop,Epic,26000027,0,1200,False,True
-three-musketeers,Three Musketeers,ThreeMusketeers,9,Troop,Rare,26000028,0,6000,True,True
-lava-hound,Lava Hound,LavaHound,7,Troop,Legendary,26000029,4000,3500,True,True
-ice-spirit,Ice Spirit,IceSpirits,1,Troop,Common,26000030,0,2500,True,True
-fire-spirit,Fire Spirit,FireSpirits,1,Troop,Common,26000031,0,2000,True,True
-miner,Miner,Miner,3,Troop,Legendary,26000032,0,1200,False,True
-sparky,Sparky,ZapMachine,6,Troop,Legendary,26000033,0,5000,False,True
-bowler,Bowler,Bowler,5,Troop,Epic,26000034,0,4000,False,True
-lumberjack,Lumberjack,RageBarbarian,4,Troop,Legendary,26000035,0,700,False,True
-battle-ram,Battle Ram,BattleRam,4,Troop,Rare,26000036,0,500,False,True
-inferno-dragon,Inferno Dragon,InfernoDragon,4,Troop,Legendary,26000037,4000,3500,True,True
-ice-golem,Ice Golem,IceGolemite,2,Troop,Rare,26000038,0,750,True,True
-mega-minion,Mega Minion,MegaMinion,3,Troop,Rare,26000039,1500,1600,True,True
-dart-goblin,Dart Goblin,BlowdartGoblin,3,Troop,Rare,26000040,0,6500,True,True
-goblin-gang,Goblin Gang,GoblinGang,3,Troop,Common,26000041,0,500,False,True
-electro-wizard,Electro Wizard,ElectroWizard,4,Troop,Legendary,26000042,0,5000,True,True
-elite-barbarians,Elite Barbarians,AngryBarbarians,6,Troop,Common,26000043,0,1200,False,True
-hunter,Hunter,Hunter,4,Troop,Epic,26000044,0,4000,True,True
-executioner,Executioner,AxeMan,5,Troop,Epic,26000045,0,4500,True,True
-bandit,Bandit,Assassin,3,Troop,Legendary,26000046,0,750,False,True
-royal-recruits,Royal Recruits,RoyalRecruits,7,Troop,Common,26000047,0,1600,False,True
-night-witch,Night Witch,DarkWitch,4,Troop,Legendary,26000048,0,1600,False,True
-bats,Bats,Bats,2,Troop,Common,26000049,2000,1200,True,True
-royal-ghost,Royal Ghost,Ghost,3,Troop,Legendary,26000050,0,1200,False,True
-ram-rider,Ram Rider,RamRider,5,Troop,Legendary,26000051,0,800,False,True
-zappies,Zappies,MiniSparkys,4,Troop,Rare,26000052,0,4500,True,True
-rascals,Rascals,Rascals,5,Troop,Common,26000053,0,800,False,True
-cannon-cart,Cannon Cart,MovingCannon,5,Troop,Epic,26000054,0,5500,False,True
-mega-knight,Mega Knight,MegaKnight,7,Troop,Legendary,26000055,0,1200,False,True
-skeleton-barrel,Skeleton Barrel,SkeletonBalloon,3,Troop,Common,26000056,3100,350,False,True
-flying-machine,Flying Machine,DartBarrell,4,Troop,Rare,26000057,4000,6000,True,True
-wall-breakers,Wall Breakers,Wallbreakers,2,Troop,Epic,26000058,0,500,False,True
-royal-hogs,Royal Hogs,RoyalHogs,5,Troop,Rare,26000059,0,750,False,True
-goblin-giant,Goblin Giant,GoblinGiant,6,Troop,Epic,26000060,0,1200,False,True
-fisherman,Fisherman,Fisherman,3,Troop,Legendary,26000061,0,1200,False,True
-magic-archer,Magic Archer,EliteArcher,4,Troop,Legendary,26000062,0,7000,True,True
+prince,Prince,Prince,5,Troop,Epic,26000016,1600,0,False,True
+wizard,Wizard,Wizard,5,Troop,Rare,26000017,5500,0,True,True
+mini-pekka,Mini P.E.K.K.A,MiniPekka,4,Troop,Rare,26000018,800,0,False,True
+spear-goblins,Spear Goblins,SpearGoblins,2,Troop,Common,26000019,5000,0,True,True
+giant-skeleton,Giant Skeleton,GiantSkeleton,6,Troop,Epic,26000020,800,0,False,True
+hog-rider,Hog Rider,HogRider,4,Troop,Rare,26000021,800,0,False,True
+minion-horde,Minion Horde,MinionHorde,5,Troop,Common,26000022,1600,1500,True,True
+ice-wizard,Ice Wizard,IceWizard,3,Troop,Legendary,26000023,5500,0,True,True
+royal-giant,Royal Giant,RoyalGiant,6,Troop,Common,26000024,5000,0,False,True
+guards,Guards,SkeletonWarriors,3,Troop,Epic,26000025,1600,0,False,True
+princess,Princess,Princess,3,Troop,Legendary,26000026,9000,0,True,True
+dark-prince,Dark Prince,DarkPrince,4,Troop,Epic,26000027,1200,0,False,True
+three-musketeers,Three Musketeers,ThreeMusketeers,9,Troop,Rare,26000028,6000,0,True,True
+lava-hound,Lava Hound,LavaHound,7,Troop,Legendary,26000029,3500,4000,True,True
+ice-spirit,Ice Spirit,IceSpirits,1,Troop,Common,26000030,2500,0,True,True
+fire-spirit,Fire Spirit,FireSpirits,1,Troop,Common,26000031,2000,0,True,True
+miner,Miner,Miner,3,Troop,Legendary,26000032,1200,0,False,True
+sparky,Sparky,ZapMachine,6,Troop,Legendary,26000033,5000,0,False,True
+bowler,Bowler,Bowler,5,Troop,Epic,26000034,4000,0,False,True
+lumberjack,Lumberjack,RageBarbarian,4,Troop,Legendary,26000035,700,0,False,True
+battle-ram,Battle Ram,BattleRam,4,Troop,Rare,26000036,500,0,False,True
+inferno-dragon,Inferno Dragon,InfernoDragon,4,Troop,Legendary,26000037,3500,4000,True,True
+ice-golem,Ice Golem,IceGolemite,2,Troop,Rare,26000038,750,0,True,True
+mega-minion,Mega Minion,MegaMinion,3,Troop,Rare,26000039,1600,1500,True,True
+dart-goblin,Dart Goblin,BlowdartGoblin,3,Troop,Rare,26000040,6500,0,True,True
+goblin-gang,Goblin Gang,GoblinGang,3,Troop,Common,26000041,500,0,False,True
+electro-wizard,Electro Wizard,ElectroWizard,4,Troop,Legendary,26000042,5000,0,True,True
+elite-barbarians,Elite Barbarians,AngryBarbarians,6,Troop,Common,26000043,1200,0,False,True
+hunter,Hunter,Hunter,4,Troop,Epic,26000044,4000,0,True,True
+executioner,Executioner,AxeMan,5,Troop,Epic,26000045,4500,0,True,True
+bandit,Bandit,Assassin,3,Troop,Legendary,26000046,750,0,False,True
+royal-recruits,Royal Recruits,RoyalRecruits,7,Troop,Common,26000047,1600,0,False,True
+night-witch,Night Witch,DarkWitch,4,Troop,Legendary,26000048,1600,0,False,True
+bats,Bats,Bats,2,Troop,Common,26000049,1200,2000,True,True
+royal-ghost,Royal Ghost,Ghost,3,Troop,Legendary,26000050,1200,0,False,True
+ram-rider,Ram Rider,RamRider,5,Troop,Legendary,26000051,800,0,False,True
+zappies,Zappies,MiniSparkys,4,Troop,Rare,26000052,4500,0,True,True
+rascals,Rascals,Rascals,5,Troop,Common,26000053,800,0,False,True
+cannon-cart,Cannon Cart,MovingCannon,5,Troop,Epic,26000054,5500,0,False,True
+mega-knight,Mega Knight,MegaKnight,7,Troop,Legendary,26000055,1200,0,False,True
+skeleton-barrel,Skeleton Barrel,SkeletonBalloon,3,Troop,Common,26000056,350,3100,False,True
+flying-machine,Flying Machine,DartBarrell,4,Troop,Rare,26000057,6000,4000,True,True
+wall-breakers,Wall Breakers,Wallbreakers,2,Troop,Epic,26000058,500,0,False,True
+royal-hogs,Royal Hogs,RoyalHogs,5,Troop,Rare,26000059,750,0,False,True
+goblin-giant,Goblin Giant,GoblinGiant,6,Troop,Epic,26000060,1200,0,False,True
+fisherman,Fisherman,Fisherman,3,Troop,Legendary,26000061,1200,0,False,True
+magic-archer,Magic Archer,EliteArcher,4,Troop,Legendary,26000062,7000,0,True,True
 electro-dragon,Electro Dragon,ElectroDragon,5,Troop,Epic,26000063,3500,3500,True,True
-firecracker,Firecracker,Firecracker,3,Troop,Common,26000064,0,6000,True,True
-mighty-miner,Mighty Miner,MightyMiner,4,Troop,Champion,26000065,0,1600,False,True
-elixir-golem,Elixir Golem,ElixirGolem,3,Troop,Rare,26000067,0,800,False,True
-battle-healer,Battle Healer,BattleHealer,4,Troop,Rare,26000068,0,1600,False,True
-skeleton-king,Skeleton King,SkeletonKing,4,Troop,Champion,26000069,0,1200,False,True
-archer-queen,Archer Queen,ArcherQueen,5,Troop,Champion,26000072,0,5000,True,True
-golden-knight,Golden Knight,GoldenKnight,4,Troop,Champion,26000074,0,1200,False,True
-skeleton-dragons,Skeleton Dragons,SkeletonDragons,4,Troop,Common,26000080,2500,3500,True,True
-mother-witch,Mother Witch,WitchMother,4,Troop,Legendary,26000083,0,5500,True,True
-electro-spirit,Electro Spirit,ElectroSpirit,1,Troop,Common,26000084,0,2500,True,True
-electro-giant,Electro Giant,ElectroGiant,7,Troop,Epic,26000085,0,1200,False,True
-cannon,Cannon,Cannon,3,Building,Common,27000000,0,5500,False,True
+firecracker,Firecracker,Firecracker,3,Troop,Common,26000064,6000,0,True,True
+mighty-miner,Mighty Miner,MightyMiner,4,Troop,Champion,26000065,1600,0,False,True
+elixir-golem,Elixir Golem,ElixirGolem,3,Troop,Rare,26000067,800,0,False,True
+battle-healer,Battle Healer,BattleHealer,4,Troop,Rare,26000068,1600,0,False,True
+skeleton-king,Skeleton King,SkeletonKing,4,Troop,Champion,26000069,1200,0,False,True
+archer-queen,Archer Queen,ArcherQueen,5,Troop,Champion,26000072,5000,0,True,True
+golden-knight,Golden Knight,GoldenKnight,4,Troop,Champion,26000074,1200,0,False,True
+skeleton-dragons,Skeleton Dragons,SkeletonDragons,4,Troop,Common,26000080,3500,2500,True,True
+mother-witch,Mother Witch,WitchMother,4,Troop,Legendary,26000083,5500,0,True,True
+electro-spirit,Electro Spirit,ElectroSpirit,1,Troop,Common,26000084,2500,0,True,True
+electro-giant,Electro Giant,ElectroGiant,7,Troop,Epic,26000085,1200,0,False,True
+cannon,Cannon,Cannon,3,Building,Common,27000000,5500,0,False,True
 goblin-hut,Goblin Hut,GoblinHut,5,Building,Rare,27000001,0,0,False,True
-mortar,Mortar,Mortar,4,Building,Common,27000002,0,11500,False,True
-inferno-tower,Inferno Tower,InfernoTower,5,Building,Rare,27000003,0,6000,True,True
-bomb-tower,Bomb Tower,BombTower,4,Building,Rare,27000004,0,6000,False,True
+mortar,Mortar,Mortar,4,Building,Common,27000002,11500,0,False,True
+inferno-tower,Inferno Tower,InfernoTower,5,Building,Rare,27000003,6000,0,True,True
+bomb-tower,Bomb Tower,BombTower,4,Building,Rare,27000004,6000,0,False,True
 barbarian-hut,Barbarian Hut,BarbarianHut,7,Building,Rare,27000005,0,0,False,True
-tesla,Tesla,Tesla,4,Building,Common,27000006,0,5500,True,True
+tesla,Tesla,Tesla,4,Building,Common,27000006,5500,0,True,True
 elixir-collector,Elixir Collector,Elixir Collector,6,Building,Rare,27000007,0,0,False,False
-x-bow,X-Bow,Xbow,6,Building,Epic,27000008,0,11500,False,True
+x-bow,X-Bow,Xbow,6,Building,Epic,27000008,11500,0,False,True
 tombstone,Tombstone,Tombstone,3,Building,Rare,27000009,0,0,False,True
 furnace,Furnace,FirespiritHut,4,Building,Rare,27000010,0,0,False,True
-goblin-cage,Goblin Cage,GoblinCage,4,Building,Rare,27000012,0,5000,False,True
-goblin-drill,Goblin Drill,GoblinDrill,4,Building,Epic,27000013,0,2000,False,True
+goblin-cage,Goblin Cage,GoblinCage,4,Building,Rare,27000012,5000,0,False,True
+goblin-drill,Goblin Drill,GoblinDrill,4,Building,Epic,27000013,2000,0,False,True
 fireball,Fireball,Fireball,4,Spell,Rare,28000000,0,0,True,True
 arrows,Arrows,Arrows,3,Spell,Common,28000001,0,0,True,True
 rage,Rage,Rage,2,Spell,Epic,28000002,0,0,True,True
@@ -105,4 +105,4 @@ earthquake,Earthquake,Earthquake,3,Spell,Rare,28000014,0,0,False,True
 barbarian-barrel,Barbarian Barrel,BarbLog,2,Spell,Epic,28000015,0,0,False,True
 heal-spirit,Heal Spirit,Heal,1,Troop,Rare,28000016,0,0,True,True
 giant-snowball,Giant Snowball,Snowball,2,Spell,Common,28000017,0,0,True,True
-royal-delivery,Royal Delivery,RoyalDelivery,3,Spell,Common,28000018,0,3000,True,True
+royal-delivery,Royal Delivery,RoyalDelivery,3,Spell,Common,28000018,3000,0,True,True
