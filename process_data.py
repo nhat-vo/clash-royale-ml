@@ -236,7 +236,7 @@ def add_battle(battles, b):
     
 
 
-# In[22]:
+# In[23]:
 
 
 battles = []
@@ -244,6 +244,7 @@ types_filter = {'PvP'}
 card_info_filter = {'id', 'name', 'level'}
 for player in players:
     for battle in player:
+        # print(battle)
         if battle['type'] in types_filter:
             add_battle(battles, battle)
 print(len(battles))

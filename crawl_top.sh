@@ -10,7 +10,7 @@ PLAYER_LIMIT=${1:-100}
 
 # download top $PLAYER_LIMIT players
 curl -H "Authorization: Bearer $API_KEY" "https://api.clashroyale.com/v1/locations/$LOCATION/rankings/players?limit=$PLAYER_LIMIT" > players.json
-cat players.json | tr ',' '\n' | grep -v 'clan' | tr '"' '\n' | grep '#' >> players.txt
+cat players.json | tr ',' '\n' | grep -v 'clan' | tr '"' '\n' | grep '#' > players.txt
 
 
 ./fetch_scripts/fetch_cards.sh
